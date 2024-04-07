@@ -208,9 +208,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
   notice:
     output: true
     permalink: /:collection/:path/
@@ -263,22 +260,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _notice
   - scope:
       path: ""
       type: notice
     values:
-      layout: notice
+      layout: talk
       author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS
