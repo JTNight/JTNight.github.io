@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jtnight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://jtnight.github.io" #path of your site, e.g. "/blog" the sub
 repository               : "JTNight/jtnight.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "JTNight/jtnight.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "J2"
+  name             : "J3"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
