@@ -12,7 +12,7 @@ Authot: SHANG Hui-chao, JI Tao, FU Xiao-li, LI Zhi-qiang
 
 Keywords：Lower Limb Rehabilitation; Exoskeleton Robot; Structural Design; Kinematics Analysis; Dynamics Analysis; Simulation
 
-Doi: [10.19356/j.cnki.1001-3997.20211116.036](10.19356/j.cnki.1001-3997.20211116.036)
+Doi: [10.19356/j.cnki.1001-3997.20211116.036](https://doi.org/10.19356/j.cnki.1001-3997.20211116.036)
 
 **Abstract:**
 Aiming at the rehabilitation needs of patients with lower limb sports injuries,a new type of 

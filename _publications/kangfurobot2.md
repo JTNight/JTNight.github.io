@@ -12,7 +12,7 @@ Authot: Li Yong, Ji Tao, SHANG Hui-chao, FU Xiao-li
 
 Keywords：Rehabilitation robot; Control system; Gait planning; Control strategy
 
-Doi: [10.19356/j.cnki.1001-3997.2022.07.013](10.19356/j.cnki.1001-3997.2022.07.013)
+Doi: [10.19356/j.cnki.1001-3997.2022.07.013](https://doi.org/10.19356/j.cnki.1001-3997.2022.07.013)
 
 **Abstract:**
 Aiming at the rehabilitation needs of patients with lower limb sports injuries,a new type of 
