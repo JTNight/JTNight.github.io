@@ -24,3 +24,12 @@ prototype;and establish the kinematics and dynamics model;analyze the characteri
 joint motion through Matlab simulation,verify the correctness of the mathematical model;and pass 
 the ADAMS The software performs dynamic simulation,verifies the normal walking gait of the model,
 and obtains the joint torque variation curve,which provides a reference for the drive control.
+
+
+**下肢康复训练机器人的控制系统设计**
+
+**摘要：** 针对康复训练患者和治疗医师需求，提出一种新型下肢康复机器人，并对其进行被动式控制系统设计。
+使用Solidworks建立三维模型，制造样机并进行控制系统设计。建立运动学模型，并且对下肢康复机器人进行运动分析，
+结合CGA临床步态数据和RLA人体下肢步态，进行下肢康复机器人的运动轨迹规划。采用PID控制方法对运动轨迹进行跟踪控制，
+运用Simulink进行模拟仿真。设计基于位置阻抗的控制策略，使实际位置跟踪目标位置，以达到人机运动协调的目的。
+搭建控制系统平台，并且对样机进行周期步态速度检验和轨迹跟踪检验。
