@@ -10,6 +10,8 @@ venue: 'Mechanical Systems and Signal Processing'
 ---
 Authot: Ji Tao, Norzalilah Mohamad Nor, Ahmad Baharuddin Bin Abdullah
 
+Keywords: Acoustic signals; Digital twin; Welding control; Deep learning
+
 Doi: [https://doi.org/10.1016/j.ymssp.2023.110962](https://doi.org/10.1016/j.ymssp.2023.110962)
 
 **Abstract:**
