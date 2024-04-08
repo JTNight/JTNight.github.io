@@ -33,6 +33,8 @@ penetration, regulating and stabilising the welding speed, and significantly enh
 welding quality. The research presented in this paper offers notable advantages for the online 
 control of welding penetration.
 
+
+
 **Reference**
 
 [1]
