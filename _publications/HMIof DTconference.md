@@ -9,12 +9,13 @@ venue: 'PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON VIBRATION, SOUND AND 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Authot: Ji Tao, Norzalilah Mohamad Nor, Feng Yiting
-
+==================
 Keywords: Ergonomics; Robotics; Industry
-
+==============
 Doi: [https://doi.org/10.1063/5.0179179](https://doi.org/10.1063/5.0179179)
-
+===================
 **Abstract:**
+-------------------
 In the era of Industry 4.0, human resources are an indispensable part of the production process, 
 so the human-machine relationship in intelligent production is a very important theme. Based on 
 the classical theory of digital twin and ergonomics, this paper discusses the expansion and 

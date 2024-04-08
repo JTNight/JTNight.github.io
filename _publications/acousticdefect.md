@@ -9,12 +9,13 @@ venue: 'Mechanical Systems and Signal Processing'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Authot: Ji Tao, Norzalilah Mohamad Nor, Ahmad Baharuddin Bin Abdullah
-
+================
 Keywords: Acoustic signals; Digital twin; Welding control; Deep learning
-
+================
 Doi: [https://doi.org/10.1016/j.ymssp.2023.110962](https://doi.org/10.1016/j.ymssp.2023.110962)
-
+=============
 **Abstract:**
+----------
 Weld penetration control has emerged as a critical area of research in the field of online control 
 for ensuring the quality of robotic welds. Acoustic signals, which are known for their distinct 
 temporal characteristics, play a pivotal role in the online assessment of weld quality. This study 
@@ -32,9 +33,8 @@ the superior performance of the system and model in accurately reflecting weldin
 penetration, regulating and stabilising the welding speed, and significantly enhancing the 
 welding quality. The research presented in this paper offers notable advantages for the online 
 control of welding penetration.
-
-
-
+====================
+==================
 **Reference**
 
 [1]
