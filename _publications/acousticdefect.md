@@ -2,7 +2,7 @@
 title: "Acoustic signal-based automated control of welding penetration using digital twin technology"
 collection: publications
 permalink: /publication/acousticdefect
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Keywords: Acoustic signals; Digital twin; Welding control; Deep learning'
 date: 12 December 2023
 venue: 'Mechanical Systems and Signal Processing'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
