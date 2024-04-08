@@ -7,7 +7,7 @@ date: 12 December 2023
 venue: 'Mechanical Systems and Signal Processing'
 doi: 'https://doi.org/10.1016/j.ymssp.2023.110962'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Doi: https://doi.org/10.1016/j.ymssp.2023.110962(https://doi.org/10.1016/j.ymssp.2023.110962)
 
