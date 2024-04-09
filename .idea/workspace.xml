@@ -23,12 +23,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/web/jtnight.github.io/talkmap",
+    "last_opened_file_path": "D:/web/jtnight.github.io/images",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\jtnight.github.io\images" />
       <recent name="D:\web\jtnight.github.io\talkmap" />
       <recent name="D:\web\jtnight.github.io\_notice" />
     </key>
@@ -44,7 +45,7 @@
       <workItem from="1712499090139" duration="1052000" />
       <workItem from="1712506324365" duration="913000" />
       <workItem from="1712542281009" duration="14814000" />
-      <workItem from="1712671553532" duration="334000" />
+      <workItem from="1712671553532" duration="723000" />
     </task>
     <servers />
   </component>
