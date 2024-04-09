@@ -18,17 +18,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/web/jtnight.github.io/_notice&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/web/jtnight.github.io/talkmap",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\jtnight.github.io\talkmap" />
       <recent name="D:\web\jtnight.github.io\_notice" />
     </key>
   </component>
@@ -42,7 +43,8 @@
       <updated>1712499086673</updated>
       <workItem from="1712499090139" duration="1052000" />
       <workItem from="1712506324365" duration="913000" />
-      <workItem from="1712542281009" duration="14176000" />
+      <workItem from="1712542281009" duration="14814000" />
+      <workItem from="1712671553532" duration="176000" />
     </task>
     <servers />
   </component>
