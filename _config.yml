@@ -21,7 +21,7 @@ repository               : "JTNight/jtnight.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "12.jpg"
+  avatar           : "12.png"
   name             : "冀涛 (Ji Tao)"
   pronouns         : # example: "she/her"  
   bio              : "Robotic Digital Twin Application;
